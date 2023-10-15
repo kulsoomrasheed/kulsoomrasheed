@@ -2,8 +2,10 @@
 
 👩‍💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | ✈️ Travel Lover
 
-<div  style="display: flex; align-items: center;">
+<div  
+style="display: flex; align-items: center;">
 <div>
+
 🌟 Crafting digital solutions with a passion for technology.
 💼 Experienced in the MERN stack, creating web magic.
 🎨 Design enthusiast, transforming ideas into stunning user experiences.
