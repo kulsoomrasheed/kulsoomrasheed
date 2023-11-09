@@ -7,7 +7,7 @@
 💼 Experienced in the MERN stack, creating web magic.
 🎨 Design enthusiast, transforming ideas into stunning user experiences.
 📧 Reach out to me: [rasheedamaan@gmail.com](mailto:rasheedamaan@gmail.com).
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin).
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kulsoom-rasheed-a5b5a0278/).
 🌐 Explore my portfolio at [kulsoomrasheed](https://kulsoomrasheed.github.io/).
 
 🚀 Let's connect and build the future of the web together.
