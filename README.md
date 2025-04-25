@@ -8,7 +8,7 @@
 🎨 Design enthusiast, transforming ideas into stunning user experiences.
 📧 Reach out to me: [rasheedamaan@gmail.com](mailto:rasheedamaan@gmail.com).
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kulsoom-rasheed-a5b5a0278/).
-🌐 Explore my portfolio at [kulsoomrasheed](https://kulsoomrasheed.github.io/).
+🌐 Explore my portfolio at [kulsoomrasheed](https://kulsoomrasheed.netlify.app/).
 
 🚀 Let's connect and build the future of the web together.
 
