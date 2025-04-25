@@ -1,7 +1,3 @@
-Great! Let's give your README a professional glow-up to reflect your new experience and skillset, while keeping your personality and style intact. Here's an updated version:
-
----
-
 # 👩‍💼 Hello, I'm Kulsoom Rasheed  
 👩‍💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | ✈️ Travel Lover
 
